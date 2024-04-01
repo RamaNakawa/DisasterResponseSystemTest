@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DisasterResponseSystem", "DisasterResponseSystem.csproj", "{3638376F-5518-4EE0-BB7D-198B0817BCAC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DistasterResponseSystemTest", "..\DistasterResponseSystemTest\DistasterResponseSystemTest.csproj", "{BFA914BF-524D-4E97-85AA-08016D4E5614}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3638376F-5518-4EE0-BB7D-198B0817BCAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3638376F-5518-4EE0-BB7D-198B0817BCAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3638376F-5518-4EE0-BB7D-198B0817BCAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3638376F-5518-4EE0-BB7D-198B0817BCAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFA914BF-524D-4E97-85AA-08016D4E5614}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFA914BF-524D-4E97-85AA-08016D4E5614}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFA914BF-524D-4E97-85AA-08016D4E5614}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFA914BF-524D-4E97-85AA-08016D4E5614}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FED9B2FC-6993-4139-B15F-C86EB008B82F}
+	EndGlobalSection
+EndGlobal
